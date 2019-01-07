@@ -4,6 +4,7 @@
  * User: alex3
  * Date: 07.01.2019
  * Time: 17:17
+ * Mastering PHP Design Patterns Book
  */
 require_once '../../autoload.php';
 
